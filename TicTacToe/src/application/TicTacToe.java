@@ -1,6 +1,7 @@
 package application;
 
 
+//this can be cleaned up
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -18,6 +19,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
+//game of playing tic tac toe! see img folder for screenshots
 public class TicTacToe extends Application{
 
 			char whoIsPlaying = 'O'; //O starts
